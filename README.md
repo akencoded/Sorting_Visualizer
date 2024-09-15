@@ -5,6 +5,7 @@
 - Insertion Sort
 - Quick Sort
 - Merge Sort
+- Heap Sort
 
 ### This is built using HTML, CSS, JavaScript <br/>
 ![image](https://github.com/user-attachments/assets/57e04467-c562-4388-bfeb-aacebf2da9f4)
